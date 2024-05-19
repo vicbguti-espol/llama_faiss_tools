@@ -1,0 +1,1 @@
+Facebook AI Similarity Search (FAISS) es una biblioteca para la búsqueda eficiente de similitudes y la agrupación de vectores densos. Contiene algoritmos que buscan en conjuntos de vectores de cualquier tamaño, hasta aquellos que posiblemente no quepan en la RAM. También contiene código de soporte para evaluación y ajuste de parámetros.

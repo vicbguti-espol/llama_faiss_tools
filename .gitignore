@@ -1,0 +1,6 @@
+# Ignorar todas las carpetas .venv en cualquier nivel del proyecto
+**/.venv/
+**/venv/
+
+# Ignorar todos los archivos .env en cualquier nivel del proyecto
+**/.env
